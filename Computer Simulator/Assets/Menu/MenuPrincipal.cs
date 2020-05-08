@@ -5,17 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class MenuPrincipal : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
     
     public void Iniciar_Desk_Comp()
     {
@@ -23,7 +12,12 @@ public class MenuPrincipal : MonoBehaviour
     }
     public void Iniciar_Comp()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 16);
+    }
+
+    public void Iniciar_Juego()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 20);
     }
 
     public void CerrarJuego()

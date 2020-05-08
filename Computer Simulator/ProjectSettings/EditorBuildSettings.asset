@@ -14,4 +14,58 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Comp.unity
     guid: 2806769fa3f7f30418c0b05e79f39d7d
+  - enabled: 1
+    path: Assets/Scenes/Escenario generico.unity
+    guid: 4df7f9f22c61539448791306da3d5827
+  - enabled: 1
+    path: Assets/Scenes/EscenarioRAM.unity
+    guid: 98b24647cc4e22d4ca0a96ce1c9c6127
+  - enabled: 1
+    path: Assets/Scenes/EscenarioSSD.unity
+    guid: aa37079134ed69048b3f4aa27433a140
+  - enabled: 1
+    path: Assets/Scenes/EscenarioTarjetaMadre.unity
+    guid: 650e0e8c0fcf5404c829f975b207d337
+  - enabled: 1
+    path: Assets/Scenes/EscenarioCompSinTapadera.unity
+    guid: 91d287f903f637e4d8e12fbe2914bbff
+  - enabled: 1
+    path: Assets/Scenes/EscenarioAudifonos.unity
+    guid: 7d6ed36c42234584192be8c324343432
+  - enabled: 1
+    path: Assets/Scenes/EscenarioGPU.unity
+    guid: 5bbc4aba19b59a548a10c33e7c3e111c
+  - enabled: 1
+    path: Assets/Scenes/EscenarioGabineteAbierto.unity
+    guid: b98ce67a98150024bac80a5e7772795f
+  - enabled: 1
+    path: Assets/Scenes/EscenarioMonitor.unity
+    guid: 44d8bbf8fa7ae5542b57b6afba64f0d8
+  - enabled: 1
+    path: Assets/Scenes/EscenarioCPU.unity
+    guid: e35d09f6cf58cb84baa5fa286c00eae2
+  - enabled: 1
+    path: Assets/Scenes/EscenarioMouse.unity
+    guid: 2c8138009217640458159b9a6ccc6f30
+  - enabled: 1
+    path: Assets/Scenes/EscenarioTeclado.unity
+    guid: df2a2ca97ba1ccc40a8ad9c23957396c
+  - enabled: 1
+    path: Assets/Scenes/EscenarioCompSinTapaderaComponente.unity
+    guid: 582cccc9f6a24f24d9cc45f17fda1037
+  - enabled: 1
+    path: Assets/Scenes/Componente.unity
+    guid: e322479d35dd863408fd870d668df38e
+  - enabled: 1
+    path: Assets/Scenes/EscenarioVentilador.unity
+    guid: 1c8ab4051fc8eba46820adcc2a27604a
+  - enabled: 1
+    path: Assets/Scenes/EscenarioPSU.unity
+    guid: db551e14d7a332f439c64252d65a680c
+  - enabled: 1
+    path: Assets/Scenes/EscenarioGabineteAbiertoComponente.unity
+    guid: 6f4134919e8f04b41b4fb86a40751679
+  - enabled: 1
+    path: Assets/Juego/Juego.unity
+    guid: f51eb0f134bebc14c9baf1b60a47c2b6
   m_configObjects: {}
